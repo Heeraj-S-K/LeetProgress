@@ -54,6 +54,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 ## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
@@ -62,12 +66,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
