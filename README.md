@@ -22,15 +22,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 | [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 | [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 | [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -40,4 +43,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
