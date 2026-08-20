@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0414-third-maximum-number) |
 | [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0414-third-maximum-number) |
 | [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -52,15 +54,15 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 ## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 ## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
