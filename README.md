@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0338-counting-bits) |
 ## Manacher
 |  |
 | ------- |
@@ -51,6 +52,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 ## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
@@ -59,8 +64,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+## Bit Manipulation
 |  |
 | ------- |
-| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+| [0338-counting-bits](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
