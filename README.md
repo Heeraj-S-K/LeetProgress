@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -25,9 +26,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0141-linked-list-cycle) |
 | [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
