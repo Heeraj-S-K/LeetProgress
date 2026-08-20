@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0414-third-maximum-number) |
+| [0477-total-hamming-distance](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0477-total-hamming-distance) |
 | [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -54,15 +55,15 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 ## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
 ## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0169-majority-element) |
@@ -72,4 +73,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0338-counting-bits](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0477-total-hamming-distance) |
+## Math
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0477-total-hamming-distance) |
 <!---LeetCode Topics End-->
