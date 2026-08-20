@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0005-longest-palindromic-substring) |
+| [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Heeraj-S-K/LeetProgress/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Heeraj-S-K/LeetProgress/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
